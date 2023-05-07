@@ -1,0 +1,19 @@
+.img-float {
+  width: 30%;
+  float: left;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+.par1 {
+  background-color: chocolate;
+  text-align: justify;
+}
+.clear {
+  clear: both;
+}
+.img2-container {
+  background: lightcoral;
+}
+.img2 {
+  float: right;
+}
